@@ -1,2 +1,2 @@
 # CV
-Creación de un prototipo de CV.
+- Creación de un prototipo de CV.
